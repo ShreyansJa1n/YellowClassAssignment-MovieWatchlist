@@ -1,16 +1,7 @@
-# yellow_class_assignment
+# Movie Watchlist - Yellow Class Assignment
+This application is a part of an assignment by The Yellow Class. This application works on both Android and iOS platforms.
+This application demonstrates the working of CRUD with local sqflite database.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. In this app, the user can can add a movie to the watch list by entering the Name, Director Name and the Poster for the movie (if available). The user can add data only by signing in using Google.
+2. If the movie poster is added then it is displayed in the list and if not then the capitalised first letter of the movie name is displayed.
+3. User can later edit or delete the movie from the watch list.
