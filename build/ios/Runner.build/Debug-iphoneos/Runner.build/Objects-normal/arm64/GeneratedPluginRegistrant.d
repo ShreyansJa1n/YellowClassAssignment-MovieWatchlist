@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/ios/Debug-iphoneos/Flutter.framework/Headers/Flutter.h

@@ -1,0 +1,4 @@
+#Sun Aug 15 15:56:00 IST 2021
+base.0=/Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

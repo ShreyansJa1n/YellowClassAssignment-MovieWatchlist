@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "14f6c8e51abb637353659572ece9f8a0"
+build_time: [1629082996, 471149000]
+inputs:
+  "/Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/ios/Runner/AppDelegate.swift": [1622111342, 0]

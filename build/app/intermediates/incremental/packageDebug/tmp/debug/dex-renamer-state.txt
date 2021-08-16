@@ -1,0 +1,4 @@
+#Mon Aug 16 09:15:02 IST 2021
+base.0=/Users/shreyansjain/Documents/flutterProjects/yellowclass-assignment/yellow_class_assignment/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
